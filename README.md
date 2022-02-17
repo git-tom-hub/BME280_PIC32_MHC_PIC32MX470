@@ -17,7 +17,7 @@ It handles multiple instances of the device.
 
 This effort came about in my mission to transition from PIC 24 and MCC to Harmony 3 MHC and PIC32's.
 Was an interesting exercise. I've never used Harmony before. 
-I'm quickly starting to like it as much as I love MHC.
+I'm quickly starting to like it as much as I love MCC.
 
 It seems em just a different GUI achieving the same thing. 
 My only thought on that is - Why?
