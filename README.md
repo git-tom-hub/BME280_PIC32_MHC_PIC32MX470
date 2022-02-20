@@ -1,4 +1,4 @@
-# BME280_PIC33_MHC_PIC32MX470
+# BME280_PIC32_MHC_PIC32MX470
 This is my SPI version of the "Getting Started with PIC32MX470" demo application.  
 
 I purchased a Curiosity PIC32MX470 board and the BME280 Click and the USB UART click as per the instructions in the Microchip "Getting started with PIC32MX470" application. 
