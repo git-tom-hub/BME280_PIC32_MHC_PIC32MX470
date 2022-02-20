@@ -11,8 +11,7 @@ As I was familiar with the device and had my own driver, so instead of debuging 
 
 I share the result here for anyone else who is having issues with the "Getting started with PIC32MX470" application.
 
-I am biased, but I think my implementation of the BME 280 driver is the best I've seen.
-It handles multiple instances of the device.
+My driver handles multiple instances of the device.
 
 
 This effort came about in my mission to transition from PIC 24 and MCC to Harmony 3 MHC and PIC32's.
